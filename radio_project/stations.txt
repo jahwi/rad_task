@@ -1,0 +1,85 @@
+(1)>The Vibe of Vegas
+(2)>Smooth AC
+(3)>Beatles
+(4)>Mellow Gold
+(5)>Classic Hits 181
+(6)>'80s Country
+(7)>Good Time Oldies
+(8)>Super '70s
+(9)>Lite '80s
+(10)>Awesome 80's
+(11)>'90s Dance
+(12)>Lite '90s
+(13)>'90s Alternative
+(14)>Star '90s
+(15)>Power 181 (Top 40)
+(81)>Power 181 [Explicit Lyrics]
+(16)>Old School HipHop/RnB
+(17)>UK top 40
+(18)>The Heart (Love Songs)
+(19)>The Office
+(20)>The Mix
+(21)>The Point
+(22)>Party 181
+(23)>The Rock! (Hard Rock)
+(24)>The Buzz (Alt. Rock)
+(25)>Classic Buzz (Alt)
+(26)>Rock 181
+(27)>AAA (Chloe)
+(28)>The Eagle (Classic)
+(29)>Rock 40 (Rock & Roll)
+(30)>80's Hairband
+(32)>Kickin' Country
+(33)>US 181
+(34)>Real Country
+(35)>'90s Country
+(36)>Highway 181
+(37)>Front Porch (Bluegrass)
+(38)>The Beat (HipHop/R&B)
+(39)>True R&B
+(40)>The Box (Urban)
+(42)>Jammin 181
+(43)>Soul
+(44)>Energy 98
+(45)>Energy 93
+(46)>Studio 181
+(47)>Techno Club
+(48)>Chilled Out
+(49)>The Breeze
+(50)>Classical Guitar
+(51)>Classical Jazz
+(52)>Vocal Jazz
+(53)>BeBop Jazz
+(54)>Sensual World
+(55)>Fusion Jazz
+(56)>Trance Jazz
+(57)>True Blues
+(58)>Classical Music
+(59)>Acid Jazz
+(60)>Reggae Roots
+(61)>Salsa
+(62)>Comedy Club
+(63)>Christmas Kountry
+(64)>Christmas Classics
+(65)>Christmas Oldies
+(66)>Christmas Country
+(67)>Christmas Power
+(68)>Christmas Highway
+(69)>Christmas Soundtracks
+(70)>Christmas R&B
+(71)>Christmas Rock
+(72)>Christmas Mix
+(73)>Christmas Fun
+(74)>Christmas Kids
+(75)>Christmas Blender
+(76)>Christmas Spirit
+(77)>Christmas Smooth Jazz
+(78)>Christmas Gospel
+(79)>Christmas Swing
+(80)>Christmas Standards
+(82)>Yacht Rock
+(83)>Jazz Mix
+(84)>80s RnB
+(85)>80s RnB Lite
+(86)>90s RnB
+(87)>90s RnB Lite
